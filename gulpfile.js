@@ -1,4 +1,4 @@
-ar gulp = require('gulp'),
+var gulp = require('gulp'),
   autoprefixer = require('gulp-autoprefixer'),
   concat = require('gulp-concat'),
   sass = require('gulp-sass'),
