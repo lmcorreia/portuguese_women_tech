@@ -1,5 +1,5 @@
 ---
-date: 2017-02-15T23:31:01.330Z
+date: '2017-02-15T23:31:01.330Z'
 image: /images/profiles/Ana Santiago_1.jpg
 title: Ana Santiago
 timeInTech: 5 years
