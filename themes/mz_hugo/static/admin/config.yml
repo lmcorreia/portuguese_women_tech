@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: marzeelabs/portuguese_women_tech # Path to your Github repository
+  repo: lmcorreia/portuguese_women_tech # Path to your Github repository
   branch: develop # Branch to update (master by default)
 
 media_folder: "/static/images/profiles" # Folder where user uploaded files should go
